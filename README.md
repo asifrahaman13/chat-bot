@@ -1,4 +1,4 @@
-# chat-bot-
+# chat-bot
 First clone the repositoty
 ```
 cd backend/
