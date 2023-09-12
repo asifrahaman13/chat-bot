@@ -22,9 +22,9 @@ uvicorn main:app --reload
 Now in another terminal open the frnt end
 ```
 cd frontend/
-
+```
 Install the dependencies
-
+```
 yarn install
 
 Start your development server
